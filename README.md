@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá 👋 
+Meu nome é **Victor**, 20 anos, estou estudando **programação** e atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+## Estudando:
+Atualmente estou aprendendo sobre **Javascript**, sendo umas das linguagens de programção mais requisitada no mercado de trabalho.
+## Buscando:
+Me desenvolver na área da computação, sempre proativo e buscando aprender.
+## Contato:
+Email: **victorkaffer@outlook.com.br**.
+
 
 <!--
 **victorkaffer/victorkaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
