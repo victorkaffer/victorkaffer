@@ -1,24 +1,8 @@
-## Olá 👋 
-Meu nome é **Victor**, 20 anos, estou estudando **programação** e atualmente cursando **Análise e Desenvolvimento de Sistemas**.
+## Olá, Mundo! 👋 
+Meu nome é **Victor**, estou estudando **programação** e atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 ## Estudando:
-Atualmente estou aprendendo sobre **Javascript**, sendo umas das linguagens de programção mais requisitada no mercado de trabalho.
+Aperfeiçoando minha lógica de programação para aprender diversas linguagens e habilidades futuramente.
 ## Buscando:
-Me desenvolver na área da computação, sempre proativo e buscando aprender.
+Me desenvolver na área da tecnologia, sempre buscando aprender e conhecer pessoas da área.
 ## Contato:
 Email: **victorkaffer@outlook.com.br**.
-
-
-<!--
-**victorkaffer/victorkaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
