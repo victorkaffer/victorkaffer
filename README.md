@@ -5,4 +5,5 @@ Aperfeiçoando minha lógica de programação para aprender diversas linguagens 
 ## Buscando:
 Me desenvolver na área da tecnologia, sempre buscando aprender e conhecer pessoas da área.
 ## Contato:
-Email: **victorkaffer@outlook.com.br**.
+Email: **victorkaffer@outlook.com.br**
+Celular: **(19) 991100831**
